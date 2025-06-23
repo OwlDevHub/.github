@@ -1,8 +1,7 @@
 <div align="center"> 
 <br><br>
 
-![Screenshot From 2025-06-20 14-57-01](https://github.com/user-attachments/assets/c8c95865-6cd2-4b7d-89d2-5ea756e21596)
-
+<img src="./l.png" width="70%" />
 
 <br><br>
 
