@@ -1,14 +1,23 @@
-<div align="center"> 
-<br><br>
+<br /><br /><br />
 
-<img src="./l.png" width="70%" />
+<div align="left"> 
 
-<br><br>
+```
 
-> 🌿 OWL - task and project management app designed specifically for developers
-    
-***Want to join? Contribute and communicate in the discord server***
-    
-<br>
-<a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> ~ Discord server ~ <br> </kbd></a>
+   ^...^    MEET
+  / o,o \   YOUR NEW
+  |):::(|   PERSONAL
+====w=w===  PRODUCTIVITY APP
+
+```
+
 </div>
+
+<div align="right"> 
+
+🌿 OWL - task and project management app designed specifically for developers
+
+<a href="https://discord.gg/tnHSEc2cZv"><kbd> ~ discord ~ </kbd></a>
+</div>
+
+<br /><br /><br />
