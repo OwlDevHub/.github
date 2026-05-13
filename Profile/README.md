@@ -17,7 +17,6 @@
 
 🌿 OWL - task and project management app designed specifically for developers
 
-<a href="https://discord.gg/tnHSEc2cZv"><kbd> ~ discord ~ </kbd></a>
 </div>
 
 <br /><br /><br />
